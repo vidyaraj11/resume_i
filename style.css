@@ -1,0 +1,19 @@
+/* unvisited link*/
+a:link{
+	color: red;
+
+}
+/* visited link*/
+a:link{
+	color: green;
+}
+.table, .th, .td {
+ border: 1px solid black;
+ border-collapse: collapse;
+}
+th, td {
+ padding: 15px;
+}
+.HOBBIES{
+	text-decoration-color: blue;
+}
